@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Renderscript Benchmark</string>
+    <string name="action_settings">Settings</string>
+    <string name="Start">Start Benchmark</string>
+	<string name="Preset">Preset</string>
+    <string name="Entry">Entry</string>
+	<string name="Performance">Performance</string>
+    <string name="High">High</string>
+    <string name="Xtreme">Xtreme</string>
+    <string name="Loading">Loading&#8230;</string>
+    
+</resources>
